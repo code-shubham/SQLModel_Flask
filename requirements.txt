@@ -1,0 +1,3 @@
+sqlmodel
+flask
+flask-smorest
